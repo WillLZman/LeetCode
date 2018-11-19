@@ -1,5 +1,8 @@
 package Easy;
 
+/**
+ * https://leetcode.com/problems/jewels-and-stones/
+ */
 public class JewelsAndStones {
     public int numJewelsInStones(String J, String S) {
         char jArray[] = J.toCharArray();
